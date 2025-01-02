@@ -1,0 +1,9 @@
+router:
+  ip: "10.1.10.11"  # Replace with your router's IP
+  username: "cisco"  # Replace with your SSH username
+  password: "cisco"  # Replace with your SSH password
+
+interface:
+  name: "GigabitEthernet2"  # Replace with your desired interface name
+  description: "Configured via Python Paramiko and YAML"  # Replace with your desired description
+
