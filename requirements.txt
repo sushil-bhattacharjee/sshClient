@@ -2,3 +2,5 @@ pyyaml
 paramiko
 rich
 netmiko
+dotenv
+scrapli

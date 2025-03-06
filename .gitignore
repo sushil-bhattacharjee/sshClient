@@ -1,1 +1,4 @@
-.VsshClient/
+.VsshClient/.VsshClinet/
+.env
+.vscode/
+.VsshClinet/
